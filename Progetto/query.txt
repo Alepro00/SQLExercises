@@ -1,0 +1,15 @@
+Parte front-end
+
+1) Tutte le recensioni di un articolo che ha un prezzo compreso tra 5 euro e 30 euro
+2) Media delle stelle di un articolo 
+3) Vedere tutti gli articoli per categoria(vista)
+4) Query per avere il costo totale del carrello di un acquirente
+5) Query per controllare se l'acquirente ha almeno una carta
+6) Per ogni negozio vedere tutti gli articoli con ognuno il proprio prezzo( e sconto)
+
+
+Parte back-end
+
+1) Vedere tutti gli ordini per ogni acquirente
+2) Vedere tutti gli elementi del carrello per ogni acquirente (vista)
+3) Vedere tutti gli indirizzi dei magazzini
